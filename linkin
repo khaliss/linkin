@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	   <meta charset="UTF-8"/>
+	   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	   <meta name="viewport" content=width=device-width, initial-scale=1.0"/>
+	   <title>Leon Template One</title>
+	   <!-- Main Template Css File-->
+	   <link rel="stylesheet" href="linkin.css"/>
+	   <link rel="stylesheet" href="all.min.css"/>
+	   <!-- Google Fonts -->
+	   <link rel="preconnect" href="https://fonts.gstatic.com">
+       <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,400;0,700;1,300;1,400;1,600;1,900&display=swap"rel="stylesheet"/>
+    </head>
+	<body>
+	<!--Start Header-->
+	<div class="header">
+	   <div class="container">
+	       <div class="logo">
+		      <img src="food.png" alt="" />
+		    </div>
+		    <ul>
+               <li><a href="default.asp">Home</a></li>
+               <li><a href="news.asp">News</a></li>
+               <li><a href="contact.asp">Contact</a></li>
+               <li><a href="about.asp">About</a></li>
+            </ul>
+		</div>
+	</div>
+	<!--End Header-->
+	<!-- Start Landing Section-->
+		<div class="landing">
+		   <div class="intro-text">
+		       <h1>Welcome To Khadidja's Restaurant</h1>
+			   <p>We are Leon - Super Creative & Minimal Agency Web TemplatWe are Leon - Super Creative & Minimal Agency Web Template cgcfcg njbjb</p>
+		   </div>
+		   <ul class="bullets">
+		      <li></li>
+		      <li class="active"></li>
+		      <li></li>
+		   </ul>
+	    </div>
+
+		<!-- End Landing Section -->
